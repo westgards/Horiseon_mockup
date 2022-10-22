@@ -1,7 +1,7 @@
 # Horiseon Accessibility Website Mockup
-![license](https://img.shields.io/github/license/westgards/horiseon_website)
-![open issue](https://img.shields.io/github/issues-raw/westgards/horiseon_website)
-![closed issue](https://img.shields.io/github/issues-closed-raw/westgards/horiseon_website)
+![license](https://img.shields.io/github/license/westgards/horiseon_mockup)
+![open issue](https://img.shields.io/github/issues-raw/westgards/horiseon_mockup)
+![closed issue](https://img.shields.io/github/issues-closed-raw/westgards/horiseon_mockup)
 
 
 ## Description
@@ -36,7 +36,7 @@ Tutorials:
 
 Copyright (c) 2022 nico. 
 
-Licensed under the [MIT](https://github.com/westgards/prework-study-guide/blob/main/LICENSE) license.
+Licensed under the [MIT](https://github.com/westgards/Horiseon_mockup/blob/main/LICENSE) license.
 
 
 ## Features
