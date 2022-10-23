@@ -10,7 +10,7 @@ This is the mockup for the Horiseon website. Horiseon knows that it is important
 In this project, we will add accessibilty features to the code base by implementing semantic HTML, increase the number of `alt` attributes, and refactor the structure of some of the HTML elements.
 
 ## Installation
-To view the project in your browser, right-click on the index.html file, then select `default browser`. This will open the HTML page in the broswer of yor choice.
+To view the project in your browser, you will need to clone down the repository to your local machine. Once you have the project locally you will need to open it in VSOCDE IDE. Right-click on the `index.html` file, then select `default browser` from the dropdown menu. This will open the HTML page in the broswer of your choice.
 
 ## Deployment
 Application is deployed through Github Pages, live URL [here]()
