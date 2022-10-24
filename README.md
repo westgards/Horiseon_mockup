@@ -10,20 +10,17 @@ This is the mockup for the Horiseon website. Horiseon knows that it is important
 In this project, we will add accessibilty features to the code base by implementing semantic HTML, increase the number of `alt` attributes, and refactor the structure of some of the HTML elements.
 
 ## Installation
-To view the project in your browser, you will need to clone down the repository to your local machine. Once you have the project locally you will need to open it in VSOCDE IDE. Right-click on the `index.html` file, then select `default browser` from the dropdown menu. This will open the HTML page in the broswer of your choice.
+To view the project in your browser:
+1. You will need to clone down the repository from GitHub to your local machine. 
+2. Once you have the project locally, you will need to open it in VSOCDE IDE. Right-click on the `index.html` file, then select `default browser` from the dropdown menu. This will open the HTML page in the broswer of your choice.
+
+
+![Chrome's dev tools](./Develop/assets/images/horiseon_dev_tools.png)
+
 
 ## Deployment
 Application is deployed through Github Pages, live URL [here]()
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
