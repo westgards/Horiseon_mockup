@@ -20,7 +20,7 @@ To view the project in your browser:
 
 
 ## Deployment
-Application is deployed through Github Pages, live URL [here]()
+Application is deployed through Github Pages, live URL [here](https://westgards.github.io/Horiseon_mockup/Develop/)
 
 
 ## Credits
