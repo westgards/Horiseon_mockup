@@ -1,5 +1,6 @@
 # Horiseon Accessibility Website Mockup
 ![license](https://img.shields.io/github/license/westgards/horiseon_mockup)
+
 ![open issue](https://img.shields.io/github/issues-raw/westgards/horiseon_mockup)
 ![closed issue](https://img.shields.io/github/issues-closed-raw/westgards/horiseon_mockup)
 
