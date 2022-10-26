@@ -20,25 +20,30 @@ To view the project in your browser:
 
 
 ## Deployment
-Application is deployed through Github Pages, live URL [here](https://westgards.github.io/Horiseon_mockup/Develop/)
+
+Application is deployed through Github Pages, live URL [Horiseon Mockup Website Link](https://westgards.github.io/Horiseon_mockup/Develop/)
+
 
 
 ## Credits
 
 Tutorials:
 
-[U of MN Coding Bootcamp](https://github.com/coding-boot-camp)
+[U of MN Coding Bootcamp Link](https://github.com/coding-boot-camp)
 
 
 ## License
 
 Copyright (c) 2022 nico. 
 
-Licensed under the [MIT](https://github.com/westgards/Horiseon_mockup/blob/main/LICENSE) license.
+Licensed under the MIT license. [MIT license Repo Link](https://github.com/westgards/Horiseon_mockup/blob/main/LICENSE) license.
 
 
 ## Features
 
-If your project has a lot of features, list them here.
+- Alternative text descriptions added to images
+- Semantic tag usage in HTML
+- Proper Heading levels and nesting to better organize the website content
+- Desriptive URLS for Hyperlinks
 
 
