@@ -34,7 +34,7 @@ Tutorials:
 
 ## License
 
-Copyright (c) 2022 nico. 
+Copyright (c) 2022 nicolewestgard. 
 
 Licensed under the MIT license. [MIT license Repo Link](https://github.com/westgards/Horiseon_mockup/blob/main/LICENSE) license.
 
@@ -44,6 +44,6 @@ Licensed under the MIT license. [MIT license Repo Link](https://github.com/westg
 - Alternative text descriptions added to images
 - Semantic tag usage in HTML
 - Proper Heading levels and nesting to better organize the website content
-- Desriptive URLS for Hyperlinks
+- Descriptive URLS for Hyperlinks
 
 
