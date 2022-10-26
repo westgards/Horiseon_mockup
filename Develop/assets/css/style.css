@@ -77,52 +77,21 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-info  {
     margin-bottom: 32px;
     color: #ffffff;
+
 }
 
-.benefit-lead img {
+.benefit-info  img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-lead h3 {
+.benefit-info  h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* main */
@@ -131,8 +100,8 @@ p {
     margin-right: 25px;
 }
 
-/* Sets the search engine optimization section */
-.search-engine-optimization {
+/* Sets the section styling */
+.feature {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -141,12 +110,12 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization h2 {
+.feature h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.search-engine-optimization img {
+.feature img {
     max-height: 200px;
 }
 
@@ -155,41 +124,21 @@ p {
     margin-left: 25px;
 }
 
-/* Sets the online reputation management section */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management h2 {
+.feature h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management img {
+.feature img {
     max-height: 200px;
 }
 
-/* Sets the social media marketing section */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing h2 {
+.feature h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing img {
+.feature img {
     max-height: 200px;
 }
 
